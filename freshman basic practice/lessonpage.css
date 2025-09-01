@@ -1,0 +1,533 @@
+header{
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(10, 0, 15);
+    background-color: bisque;
+    height: 30px;
+    width: 1168px;
+}
+
+.search-bar{
+    border-radius: 7px;
+    border-color: aqua;
+    outline: none; /* Optional: remove the outline when focused */
+    font-size: 16px;
+    width: 650px;
+}
+ 
+.second-header{
+    color: skyblue;
+}
+
+body {
+   background-color: aliceblue;
+   
+}
+
+
+.div-first{ 
+    display: flex; 
+    margin-top: 8%;  
+    }
+    
+    
+
+    .button-div{
+        position: fixed;
+        display: flex;
+        width: 315px;
+        height: 85px;
+        background-color:rgb(228, 222, 222);
+        border-radius: 15px;
+        margin-top: 10px;
+    }
+    
+    
+    
+    
+    .homepage-button{
+        color: black;
+        background-color: yellow;
+        height: 40px;
+        width: 90px;
+        border-radius: 10px;
+        margin-top: 25%;
+        margin-left: 10%;
+        border: none;
+    }
+    .homepage-button:active{
+        background-color: white;
+        color: black;
+    }
+    
+    .lessonpage-button{
+        color: black;
+        background-color: yellow;
+        height: 40px;
+        width: 90px;
+        border-radius: 10px;
+        margin-top: 20%;
+        margin-left: 20px;
+        border: none;
+    }
+    .lessonpage-button:active{
+        background-color: white;
+        color: black;
+    }
+    
+    
+    .activitypage-button{
+        color: black;
+        background-color: yellow;
+        height: 40px;
+        width: 90px;
+        border-radius: 10px;
+        margin-top: 20%;
+        margin-left: 10px;
+        border: none;
+    }
+    
+    .activitypage-button:active{
+        background-color: white;
+        color: black;
+    }
+
+
+
+
+
+
+.html-div{
+    width: 350px;
+    height: 450px;
+    background-color: pink;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.html-pic{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 25px;
+}
+
+.html-review{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     margin-left: 95px;
+     font-size: 15px;
+}
+
+.html-learn{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     font-size: 15px;
+}
+
+.p-html{
+    text-align: center;
+}
+
+
+
+
+
+
+.css-div{
+    width: 350px;
+    height: 450px;
+    background-color: pink;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.css-pic{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 25px;
+}
+
+.css-review{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     margin-left: 95px;
+     font-size: 15px;
+}
+
+.css-learn{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     font-size: 15px;
+}
+
+
+.p-css{
+    text-align: center;
+}
+
+
+
+
+
+.javascript-div{
+    width: 350px;
+    height: 450px;
+    background-color: pink;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.javascript-pic{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 25px;
+}
+
+.javascript-review{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color:yellow;
+     color:black;
+     text-align: center;
+     margin-left: 95px;
+     font-size: 15px;
+}
+
+.javascript-learn{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     font-size: 15px;
+}
+
+
+.p-javascript{
+    text-align: center;
+}
+
+
+
+.div-second{
+    display: flex;
+    
+    }
+
+
+
+    .database-div{
+        width: 350px;
+        height: 450px;
+        background-color: pink;
+        border-radius: 15px;
+        margin: 20px;
+    
+    }
+    
+    .database-pic{
+        width: 250px;
+        height: 200px;
+        border-radius: 15px;
+        margin-top: 5%;
+        margin-left: 25px;
+    }
+    
+    .database-review{
+        height: 40px;
+        width: 80px;
+        border-radius: 15px;
+        background-color:yellow;
+         color: black;
+         text-align: center;
+         margin-left: 95px;
+         font-size: 15px;
+    }
+    
+    .database-learn{
+        height: 40px;
+        width: 80px;
+        border-radius: 15px;
+        background-color:yellow;
+         color: black;
+         text-align: center;
+         font-size: 15px;
+    }
+    
+    
+    .p-database{
+        text-align: center;
+    }
+
+    
+
+
+    .python-div{
+        width: 350px;
+        height: 450px;
+        background-color: pink;
+        border-radius: 15px;
+        margin: 20px;
+    
+    }
+    
+    .python-pic{
+        width: 250px;
+        height: 200px;
+        border-radius: 15px;
+        margin-top: 5%;
+        margin-left: 25px;
+    }
+    
+    .python-review{
+        height: 40px;
+        width: 80px;
+        border-radius: 15px;
+        background-color:yellow;
+         color: black;
+         text-align: center;
+         margin-left: 95px;
+         font-size: 15px;
+    }
+    
+    .python-learn{
+        height: 40px;
+        width: 80px;
+        border-radius: 15px;
+        background-color: yellow;
+         color: black;
+         text-align: center;
+         font-size: 15px;
+    }
+    
+    
+    .p-python{
+        text-align: center;
+    }
+
+    
+
+
+
+    .mysql-div{
+        width: 350px;
+        height: 450px;
+        background-color: pink;
+        border-radius: 15px;
+        margin: 20px;
+    
+    }
+    
+    .mysql-pic{
+        width: 250px;
+        height: 200px;
+        border-radius: 15px;
+        margin-top: 5%;
+        margin-left: 25px;
+    }
+    
+    .mysql-review{
+        height: 40px;
+        width: 80px;
+        border-radius: 15px;
+        background-color: yellow;
+         color: black;
+         text-align: center;
+         margin-left: 95px;
+         font-size: 15px;
+    }
+    
+    .mysql-learn{
+        height: 40px;
+        width: 80px;
+        border-radius: 15px;
+        background-color: yellow;
+         color: black;
+         text-align: center;
+         font-size: 15px;
+    }
+    
+    
+    .p-mysql{
+        text-align: center;
+    }
+    
+
+
+
+
+
+
+
+
+.div-3rd{
+    display: flex;
+    
+    }
+
+
+
+
+
+.c-div{
+    width: 350px;
+    height: 450px;
+    background-color: pink;
+    border-radius: 15px;
+    margin: 20px;
+
+}
+
+.c-pic{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 25px;
+}
+
+.c-review{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     margin-left: 95px;
+     font-size: 15px;
+}
+
+.c-learn{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color:black;
+     text-align: center;
+     font-size: 15px;
+}
+
+
+.p-c{
+    text-align: center;
+}
+
+
+
+
+
+.comnet-div{
+    width: 350px;
+    height: 450px;
+    background-color: pink;
+    border-radius: 15px;
+    margin: 20px;
+
+}
+
+.comnet-pic{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 25px;
+}
+
+.comnet-review{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color:yellow;
+     color: black;
+     text-align: center;
+     margin-left: 95px;
+     font-size: 15px;
+}
+
+.comnet-learn{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     font-size: 15px;
+}
+
+
+.p-comnet{
+    text-align: center;
+}
+
+
+
+
+.cplusplus-div{
+    width: 350px;
+    height: 450px;
+    background-color: pink;
+    border-radius: 15px;
+    margin: 20px;
+
+}
+
+.cplusplus-pic{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 25px;
+}
+
+.cplusplus-review{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     margin-left: 95px;
+     font-size: 15px;
+}
+
+.cplusplus-learn{
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    background-color: yellow;
+     color: black;
+     text-align: center;
+     font-size: 15px;
+}
+
+
+.p-cplusplus{
+    text-align: center;
+}
+
+
+

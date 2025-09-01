@@ -1,0 +1,78 @@
+.button{
+   
+    color:white;
+    background-color:green;
+    border-radius: 15px;
+    margin-top: 0px;
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    border: none;
+
+}
+.button:active{
+    color: aqua;
+    background-color: white;
+}
+
+.button-div{
+    color: greenyellow;
+    border: 2px;
+    border-radius: 15px;
+    flex-direction: row;
+    display: inline-block;
+    margin-top: 5%;
+    padding: 20px;
+    background-color: pink;
+    
+}
+header{
+    background-color: green;
+    height: 60px;
+    text-align: center;
+    color: white;
+    padding: 1px;
+    
+   
+}
+body{
+    margin: 0px;
+}
+
+.home-button{
+    color: skyblue;
+    background-color: pink;
+    border-radius: 15px;
+    height: 100px;
+    width: 150px;
+}
+.h-button{
+    margin-top: 30px;
+    margin-left:15px ;
+    color: white;
+    background-color: green;
+    height: 40px;
+    width: 120px;
+    border-radius: 15px;
+    border: none;
+}
+.h-button:active{
+    color: aqua;
+    background-color: white;
+}
+.search-bar{
+    border-radius: 7px;
+    border-color: aqua;
+    outline: none; /* Optional: remove the outline when focused */
+    font-size: 16px;
+    width: 650px;
+}
+
+.second-h{
+    height: 30px;
+}
+
+.container{
+    background-color: aqua;
+    border: 2px;
+}

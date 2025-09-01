@@ -1,0 +1,194 @@
+header{
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(10, 0, 15);
+    background-color: bisque;
+    height: 30px;
+    width: 1168px;
+}
+
+.search-bar{
+    border-radius: 7px;
+    border-color: aqua;
+    outline: none; /* Optional: remove the outline when focused kung baga sa search na wawala yung line sa gilid */
+    font-size: 16px;
+    width: 650px;
+}
+
+.second-header{
+    color:  skyblue;
+}
+.button-div{
+    position: fixed;
+    display: flex;
+    width: 315px;
+    height: 85px;
+    background-color:rgb(228, 222, 222);
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+
+
+
+.homepage-button{
+    color: black;
+    background-color: yellow;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    margin-top: 25%;
+    margin-left: 10%;
+    border: none;
+}
+.homepage-button:active{
+    background-color: white;
+    color: black;
+}
+
+.lessonpage-button{
+    color: black;
+    background-color: yellow;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    margin-top: 20%;
+    margin-left: 20px;
+    border: none;
+}
+.lessonpage-button:active{
+    background-color: white;
+    color: black;
+}
+
+
+
+.activitypage-button{
+    color: black;
+    background-color: yellow;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    margin-top: 20%;
+    margin-left: 10px;
+    border: none;
+}
+
+.activitypage-button:active{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+body {
+    background-color: aliceblue;
+}
+
+
+
+
+   .second-div{
+    float: right;
+      position: fixed;   
+      width: 200px;
+      height: 300px;
+      background-color: pink;
+      border-radius: 15px;
+      flex-direction: row;
+      padding-top: 2px;
+      text-align: center;
+      margin-top: 7%;
+      
+      
+   }
+
+   
+
+ .buttons{
+    color: black;
+    background-color: yellow;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 3px;
+
+ }
+
+
+
+
+
+
+
+ .divalls{
+    width: 100%;
+    height:auto;
+    display: flex;
+    flex-direction:row;
+    margin-left: 250px;
+    margin-right: 100px;
+    margin-top: 4%;
+    
+    
+    
+    
+    }
+    
+    .div-2{
+        width: 200px;
+        height: 200px;
+        background-color: pink;
+        color: yellow;
+        font-size: 20px;
+         text-align: center;
+         border-radius: 20px;
+         margin-left: 25px;
+         
+    }
+
+
+        
+    .div-3rd{
+        width: 100%;
+        height:auto;
+        display: flex;
+        flex-direction:row;
+        margin-left: 250px;
+        margin-right: 100px;
+        right: 0%;
+        margin-top: 1%;
+    }
+
+    .div-3{
+        width: 200px;
+        height: 200px;
+        background-color: pink;
+        color: yellow;
+        font-size: 20px;
+         text-align: center;
+         border-radius: 20px;
+         margin-left: 25px;
+         
+
+    }
+
+    .icon-page{
+        color: skyblue;
+        height: 7px;
+        width: 90px;
+        margin-top: -10%;
+        margin-left: 5%;
+    
+    }
+
+    .last-button{
+        color: green;
+        background-color: yellow;
+        border-radius: 10px;
+    }
